@@ -7,7 +7,7 @@ Here are some of the programming languages, frameworks, and tools that I'm comfo
 * ⚛️ Python
 
 ## Contact Me
-* Feel free to get in touch with me via [email](mailto:yourexample@gmail.com) "Make Sure to Enter Your Actual Email Here".
+* Feel free to get in touch with me via [email](mailto:guptaaman6011@gmail.com).
 * You Can Contact Me in Two Different Languages - **English & Hindi**.
 
 ## GitHub Stats
