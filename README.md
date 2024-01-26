@@ -1,10 +1,10 @@
 # Hi there!👋 My Name is Aman!!
 ## About Me
-I'm a Python Programmer from India with a Passion for learning and Building New Things. Currently i am Focusing on Learning Python and Machine Learning. I am Also Interested and Passionate about a Python FrameWork Named **kivy** Which is Mainly Used for Building Android Apps I got Motivation for Learning all of This from various AI tools Present on the Internet Like **ChatGPT**, **GPT4**, **Copy.ai** etc.
+I'm a Javascript developer from India with a Passion for learning and Building New Things. Currently i am Focusing on Learning Javascript and Web development. I am Also Interested and Passionate about HTML, CSS, react.js FrameWork Which is Mainly Used for Building Web apps I got Motivation for Learning all of This from various Web sites like **tradingView**, **Go charting**, And I am also passionate for **Algo trading** and Now i am starting make my own project which is **Algo trading**.
 
 ## Skills and Experiences
 Here are some of the programming languages, frameworks, and tools that I'm comfortable working with:
-* ⚛️ Python(Beginner)
+* ⚛️ HTML, CSS, javascript.
 
 ## Contact Me
 * Feel free to get in touch with me via [email](mailto:guptaaman6011@gmail.com).
